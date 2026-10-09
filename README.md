@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Cris Peng>`
+- **CCID:** `<meiwen>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+used google to check why and how to fix when gradle is not syncing
 
 ## Verbal Collaboration
 
